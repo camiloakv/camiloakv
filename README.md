@@ -19,17 +19,17 @@ Here are some ideas to get you started:
   <div align='center' display="inline-block">
     <a href="https://www.linkedin.com/in/camilo-akimushkin-valencia/" target="_blank"
       ><img
-        src="https://img.shields.io/badge/-LinkedIn-0b66c3?style=plastic&logo=linkedin&logoColor=white"
+        src="https://img.shields.io/badge/-LinkedIn-0b66c3?style=flat&logo=linkedin&logoColor=white"
         target="_blank"
     /></a>
     <a href="mailto:camilo.akimushkin@gmail.com"
       ><img
-        src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"
     /></a>
     &emsp;
-    <img src="https://img.shields.io/badge/python-FFDA4C?style=plastic&logo=python&logoColor=407eaf" />
-    <img src="https://img.shields.io/badge/LangChain-ffffff?style=plastic&logo=langchain&logoColor=1b3b3a" />
-    <img src="https://img.shields.io/badge/docker-404D59?style=plastic&logo=docker" />
+    <img src="https://img.shields.io/badge/python-FFDA4C?style=flat&logo=python&logoColor=407eaf" />
+    <img src="https://img.shields.io/badge/LangChain-ffffff?style=flat&logo=langchain&logoColor=1b3b3a" />
+    <img src="https://img.shields.io/badge/docker-404D59?style=flat&logo=docker" />
   </div>
 </h1>
 
