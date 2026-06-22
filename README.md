@@ -37,4 +37,4 @@ Here I share my personal projects, most of them for self-study and reference.
 
 ### 🔎 Repository format
 
-The repo's name reflects its purpose, sometimes referenced through the name of a music artist. That makes it easy for me, hope that won't be much of a trouble for you.
+The repo's name reflects its purpose, most of the times referenced through the name of a music artist. That makes it easy for me, hope that won't be much of a trouble for you.
