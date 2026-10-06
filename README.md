@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <div align='center' display="inline-block">
     <a href="https://www.linkedin.com/in/camilo-akimushkin-valencia/" target="_blank"
       ><img
-        src="https://img.shields.io/badge/-LinkedIn-0b66c3?style=flat&logo=linkedin&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=fff"
         target="_blank"
     /></a>
     <a href="mailto:camilo.akimushkin@gmail.com"
